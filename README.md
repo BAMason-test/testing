@@ -1,1 +1,7 @@
-## READY!
+## READY?
+
+### SET...
+
+GO!
+
+
