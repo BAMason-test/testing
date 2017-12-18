@@ -1,3 +1,2 @@
 # READY
-set
 go
