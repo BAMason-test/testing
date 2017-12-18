@@ -1,4 +1,2 @@
 # READY
-go
-go
-go
+
