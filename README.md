@@ -1,2 +1,1 @@
-### READY!
-go
+# READY
