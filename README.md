@@ -1,1 +1,3 @@
 # READY
+set
+go
