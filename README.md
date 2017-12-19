@@ -1,3 +1,1 @@
 # READY
-set
-go
