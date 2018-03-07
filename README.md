@@ -1,3 +1,1 @@
 # README
-
-## Section 1
